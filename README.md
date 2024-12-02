@@ -1,4 +1,4 @@
-Hi, I'm Orlando. I'm interested in games, audio processing, and web development. I'm working through the Odin Project and Stroustrup's Programming: Principles and Practice Using C++, and I’ve taken CS50X and CS50P. I'm also a composer and classically trained pianist.
+Hi, I'm Orlando. I'm interested in games, audio processing, and web development, and I'm developing an RPG. I'm working through the Odin Project and Stroustrup's Programming: Principles and Practice Using C++, and I’ve taken CS50X and CS50P. I'm also a composer and classically trained pianist.
 
 Find me on [LinkedIn](https://www.linkedin.com/in/orlandoshamlou/)
 
