@@ -1,8 +1,5 @@
-Hi, I'm Orlando. I'm interested in games, audio processing, and web development, and I'm developing an RPG. I'm working through the Odin Project and Stroustrup's Programming: Principles and Practice Using C++, and I’ve taken CS50X and CS50P. I'm also a composer and classically trained pianist.
+Hi, I'm Orlando. I'm interested in <em>games</em> and <em>audio processing</em>. I'm working through <em>The Odin Project</em> and Stroustrup's <em>Programming: Principles and Practice Using C++</em>. My background is in music (classical piano and composition/production).
+
+I also run the weekly [Portfolio Builders jams](https://itch.io/search?type=jams&q=portfolio+builders+jam) on itch.io
 
 Find me on [LinkedIn](https://www.linkedin.com/in/orlandoshamlou/)
-
-<!---
-orlambda/orlambda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
